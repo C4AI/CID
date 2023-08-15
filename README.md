@@ -5,5 +5,6 @@ O C4AI também é ativo no apoio a atividades de diversidade e inclusão in IA p
 # Coordenadores:
 
 Valdinei Freire da Silva, USP
+
 Renata Wassermann, USP
 
