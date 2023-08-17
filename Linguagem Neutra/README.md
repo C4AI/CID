@@ -1,5 +1,5 @@
 ## Paper
-**Eu, Tu, Ele, Ela, Elu, Nós, Vós, Eles, Elas, Elus por um Modelo de Linguagem Inclusivo**
+**Eu, Tu, Ele, Ela, Elu, Nós, Vós, Eles, Elas, Elus por um Modelo de Linguagem Neutra**
 
 ## Authors
 **Washington Roberto Lopes** - Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP)
